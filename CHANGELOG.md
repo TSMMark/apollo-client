@@ -4,6 +4,8 @@ Expect active development and potentially significant breaking changes in the `0
 
 ### vNext
 
+- Create and expose the `MutateOptions` [PR #866](https://github.com/apollostack/apollo-client/pull/866)
+
 ### v0.5.0
 - Add a `createdBatchingNetworkInterface` function and export it.
 - Add support for fragments to `fetchMore`
